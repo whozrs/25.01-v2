@@ -1,0 +1,54 @@
+﻿[Files]
+File0=C:\Users\peik_\OneDrive\Desktop\Se Projekt\18.01\Nutzer.java
+File1=C:\Users\peik_\OneDrive\Desktop\Se Projekt\18.01\Programm.java
+File2=C:\Users\peik_\OneDrive\Desktop\Se Projekt\18.01\Ubung.java
+
+[Box:  - Nutzer]
+X=79
+Y=2457
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - Programm]
+X=20
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - Ubung]
+X=629
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=12
+FontName=Segoe UI
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+ShowConnections=0
+Fontname=Segoe UI
+Fontsize=12
+ShowObjectDiagram=0
+
+[Connections]
+V0=Programm#Nutzer#AssociationDirected####0#0#0###0#0
+
+[Interactive]
+I0=
+
